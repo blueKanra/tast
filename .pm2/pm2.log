@@ -1,0 +1,135 @@
+2017-06-27 07:44:39: ===============================================================================
+2017-06-27 07:44:39: --- New PM2 Daemon started ----------------------------------------------------
+2017-06-27 07:44:39: Time                 : Tue Jun 27 2017 07:44:39 GMT+0000 (UTC)
+2017-06-27 07:44:39: PM2 version          : 2.5.0
+2017-06-27 07:44:39: Node.js version      : 6.11.0
+2017-06-27 07:44:39: Current arch         : x64
+2017-06-27 07:44:39: PM2 home             : /root/.pm2
+2017-06-27 07:44:39: PM2 PID file         : /root/.pm2/pm2.pid
+2017-06-27 07:44:39: RPC socket file      : /root/.pm2/rpc.sock
+2017-06-27 07:44:39: BUS socket file      : /root/.pm2/pub.sock
+2017-06-27 07:44:39: Application log path : /root/.pm2/logs
+2017-06-27 07:44:39: Process dump file    : /root/.pm2/dump.pm2
+2017-06-27 07:44:39: Concurrent actions   : 2
+2017-06-27 07:44:39: SIGTERM timeout      : 1600
+2017-06-27 07:44:39: ===============================================================================
+2017-06-27 07:44:40: Starting execution sequence in -fork mode- for app name:hello id:0
+2017-06-27 07:44:40: App name:hello id:0 online
+2017-06-27 07:52:35: pm2 has been killed by signal, dumping process list before exit...
+2017-06-27 07:52:36: Deleting process 0
+2017-06-27 07:52:36: Stopping app:hello id:0
+2017-06-27 07:52:36: App [hello] with id [0] and pid [2094], exited with code [0] via signal [SIGHUP]
+2017-06-27 07:52:36: pid=2094 msg=process killed
+2017-06-27 07:52:36: [PM2] Exited peacefully
+2017-06-27 07:52:37: ===============================================================================
+2017-06-27 07:52:37: --- New PM2 Daemon started ----------------------------------------------------
+2017-06-27 07:52:37: Time                 : Tue Jun 27 2017 07:52:37 GMT+0000 (UTC)
+2017-06-27 07:52:37: PM2 version          : 2.5.0
+2017-06-27 07:52:37: Node.js version      : 6.11.0
+2017-06-27 07:52:37: Current arch         : x64
+2017-06-27 07:52:37: PM2 home             : /root/.pm2
+2017-06-27 07:52:37: PM2 PID file         : /root/.pm2/pm2.pid
+2017-06-27 07:52:37: RPC socket file      : /root/.pm2/rpc.sock
+2017-06-27 07:52:37: BUS socket file      : /root/.pm2/pub.sock
+2017-06-27 07:52:37: Application log path : /root/.pm2/logs
+2017-06-27 07:52:37: Process dump file    : /root/.pm2/dump.pm2
+2017-06-27 07:52:37: Concurrent actions   : 2
+2017-06-27 07:52:37: SIGTERM timeout      : 1600
+2017-06-27 07:52:37: ===============================================================================
+2017-06-27 07:52:37: ===============================================================================
+2017-06-27 07:52:37: --- Stopping PM2 --------------------------------------------------------------
+2017-06-27 07:52:37: Time                 : Tue Jun 27 2017 07:52:37 GMT+0000 (UTC)
+2017-06-27 07:52:37: ===============================================================================
+2017-06-27 07:52:37: RPC closed
+2017-06-27 07:52:37: PUB closed
+2017-06-27 07:52:37: PM2 successfully stopped
+2017-06-27 08:27:16: ===============================================================================
+2017-06-27 08:27:16: --- New PM2 Daemon started ----------------------------------------------------
+2017-06-27 08:27:16: Time                 : Tue Jun 27 2017 08:27:16 GMT+0000 (UTC)
+2017-06-27 08:27:16: PM2 version          : 2.5.0
+2017-06-27 08:27:16: Node.js version      : 6.11.0
+2017-06-27 08:27:16: Current arch         : x64
+2017-06-27 08:27:16: PM2 home             : /root/.pm2
+2017-06-27 08:27:16: PM2 PID file         : /root/.pm2/pm2.pid
+2017-06-27 08:27:16: RPC socket file      : /root/.pm2/rpc.sock
+2017-06-27 08:27:16: BUS socket file      : /root/.pm2/pub.sock
+2017-06-27 08:27:16: Application log path : /root/.pm2/logs
+2017-06-27 08:27:16: Process dump file    : /root/.pm2/dump.pm2
+2017-06-27 08:27:16: Concurrent actions   : 2
+2017-06-27 08:27:16: SIGTERM timeout      : 1600
+2017-06-27 08:27:16: ===============================================================================
+2017-06-27 08:27:16: Starting execution sequence in -fork mode- for app name:hello id:0
+2017-06-27 08:27:16: App name:hello id:0 online
+2017-06-27 08:40:14: Stopping app:hello id:0
+2017-06-27 08:40:14: App [hello] with id [0] and pid [1588], exited with code [0] via signal [SIGINT]
+2017-06-27 08:40:14: pid=1588 msg=process killed
+2017-06-27 08:40:14: Starting execution sequence in -fork mode- for app name:hello id:0
+2017-06-27 08:40:14: App name:hello id:0 online
+2017-06-27 09:16:49: Stopping app:hello id:0
+2017-06-27 09:16:49: App [hello] with id [0] and pid [1728], exited with code [0] via signal [SIGINT]
+2017-06-27 09:16:49: pid=1728 msg=process killed
+2017-06-27 09:16:49: Starting execution sequence in -fork mode- for app name:hello id:0
+2017-06-27 09:16:49: App name:hello id:0 online
+2017-06-27 09:23:16: Stopping app:hello id:0
+2017-06-27 09:23:16: App [hello] with id [0] and pid [1759], exited with code [0] via signal [SIGINT]
+2017-06-27 09:23:16: pid=1759 msg=process killed
+2017-06-27 09:23:16: Starting execution sequence in -fork mode- for app name:hello id:0
+2017-06-27 09:23:16: App name:hello id:0 online
+2017-06-27 09:29:59: Stopping app:hello id:0
+2017-06-27 09:29:59: App [hello] with id [0] and pid [1789], exited with code [0] via signal [SIGINT]
+2017-06-27 09:29:59: [HandleExit] PM2 is being killed, stopping restart procedure...
+2017-06-27 09:29:59: pid=1789 msg=process killed
+2017-06-27 09:29:59: ===============================================================================
+2017-06-27 09:29:59: --- Stopping PM2 --------------------------------------------------------------
+2017-06-27 09:29:59: Time                 : Tue Jun 27 2017 09:29:59 GMT+0000 (UTC)
+2017-06-27 09:29:59: ===============================================================================
+2017-06-27 09:29:59: RPC closed
+2017-06-27 09:29:59: PUB closed
+2017-06-27 09:29:59: PM2 successfully stopped
+2017-06-27 10:34:34: ===============================================================================
+2017-06-27 10:34:34: --- New PM2 Daemon started ----------------------------------------------------
+2017-06-27 10:34:34: Time                 : Tue Jun 27 2017 10:34:34 GMT+0000 (UTC)
+2017-06-27 10:34:34: PM2 version          : 2.5.0
+2017-06-27 10:34:34: Node.js version      : 6.11.0
+2017-06-27 10:34:34: Current arch         : x64
+2017-06-27 10:34:34: PM2 home             : /root/.pm2
+2017-06-27 10:34:34: PM2 PID file         : /root/.pm2/pm2.pid
+2017-06-27 10:34:34: RPC socket file      : /root/.pm2/rpc.sock
+2017-06-27 10:34:34: BUS socket file      : /root/.pm2/pub.sock
+2017-06-27 10:34:34: Application log path : /root/.pm2/logs
+2017-06-27 10:34:34: Process dump file    : /root/.pm2/dump.pm2
+2017-06-27 10:34:34: Concurrent actions   : 2
+2017-06-27 10:34:34: SIGTERM timeout      : 1600
+2017-06-27 10:34:34: ===============================================================================
+2017-06-27 10:34:34: Starting execution sequence in -fork mode- for app name:hello id:0
+2017-06-27 10:34:34: App name:hello id:0 online
+2017-06-27 11:13:43: Stopping app:hello id:0
+2017-06-27 11:13:43: App [hello] with id [0] and pid [1589], exited with code [0] via signal [SIGINT]
+2017-06-27 11:13:43: [HandleExit] PM2 is being killed, stopping restart procedure...
+2017-06-27 11:13:43: pid=1589 msg=process killed
+2017-06-27 11:13:43: ===============================================================================
+2017-06-27 11:13:43: --- Stopping PM2 --------------------------------------------------------------
+2017-06-27 11:13:43: Time                 : Tue Jun 27 2017 11:13:43 GMT+0000 (UTC)
+2017-06-27 11:13:43: ===============================================================================
+2017-06-27 11:13:43: RPC closed
+2017-06-27 11:13:43: PUB closed
+2017-06-27 11:13:43: PM2 successfully stopped
+2017-06-27 11:13:43: pm2 has been killed by signal, dumping process list before exit...
+2017-06-27 11:13:43: [PM2] Exited peacefully
+2017-06-28 01:17:41: ===============================================================================
+2017-06-28 01:17:41: --- New PM2 Daemon started ----------------------------------------------------
+2017-06-28 01:17:41: Time                 : Wed Jun 28 2017 01:17:41 GMT+0000 (UTC)
+2017-06-28 01:17:41: PM2 version          : 2.5.0
+2017-06-28 01:17:41: Node.js version      : 6.11.0
+2017-06-28 01:17:41: Current arch         : x64
+2017-06-28 01:17:41: PM2 home             : /root/.pm2
+2017-06-28 01:17:41: PM2 PID file         : /root/.pm2/pm2.pid
+2017-06-28 01:17:41: RPC socket file      : /root/.pm2/rpc.sock
+2017-06-28 01:17:41: BUS socket file      : /root/.pm2/pub.sock
+2017-06-28 01:17:41: Application log path : /root/.pm2/logs
+2017-06-28 01:17:41: Process dump file    : /root/.pm2/dump.pm2
+2017-06-28 01:17:41: Concurrent actions   : 2
+2017-06-28 01:17:41: SIGTERM timeout      : 1600
+2017-06-28 01:17:41: ===============================================================================
+2017-06-28 01:17:41: Starting execution sequence in -fork mode- for app name:hello id:0
+2017-06-28 01:17:41: App name:hello id:0 online
